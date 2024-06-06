@@ -5,7 +5,7 @@
 Digitalna Biblioteka je jednostavna aplikacija za upravljanje knjigama. Omogućava korisnicima da dodaju, pretražuju, izmenjuju i brišu knjige, kao i da sačuvaju i učitaju biblioteku iz fajla
 Pokretanje Aplikacije
 
-    Klonirajte repozitorijum: git clone https://github.com/Boomerang85/Projekat_programiranje.git
+    Klonirajte repozitorijum: git clone https://github.com/Boomerang85/Projekat_TDD.git
 
     Pokretanje apliikacije python src/main.py
 
