@@ -7,7 +7,7 @@ Pokretanje Aplikacije
 
     Klonirajte repozitorijum: git clone https://github.com/Boomerang85/Projekat_TDD.git
 
-    Pokretanje apliikacije python src/main.py
+    Pokretanje aplikacije python src/main.py
 
 # Funkcionalnosti
 
